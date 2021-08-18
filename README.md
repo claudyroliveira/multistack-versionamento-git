@@ -6,4 +6,4 @@ Este repositório é para treinar os principais conceitos do git
 ## Clonar o repositório
 'https://github.com/claudyroliveira/multistack-versionamento-git.git'
 
-## Executar os arquivos clicando duads vezes sobre eles
+## Executar os arquivos clicando duas vezes sobre eles
